@@ -1,0 +1,15 @@
+ul{
+    align-items: center;
+    list-style-type: none;
+    margin-left: 700px;
+   margin-top:-60px;
+   display: flex;
+   justify-content : space-between;
+    overflow: hidden;
+  }
+  
+  
+  li{
+    float: left;
+    
+  }
