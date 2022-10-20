@@ -8,5 +8,8 @@ I used styled-components for the style of the page and this is  a review of what
 
 
 
-https://user-images.githubusercontent.com/72358981/197078616-c44a9ef4-a09e-4b0d-b39d-2574db6206f7.mp4
+
+
+
+https://user-images.githubusercontent.com/72358981/197078725-15d06958-11a6-447c-915a-5775c5824b24.mp4
 
